@@ -4,13 +4,13 @@
 
 OpenLatero is a set of open source libraries and programs for the Latero tactile display:
 
-- **[latero](https://github.com/OpenLatero/latero)**: the low level driver for the Latero device
-- **[latero-gui](https://github.com/OpenLatero/latero-gui)**: a GUI that allows the individual testing of the actuators
-- **[latero-examples](https://github.com/OpenLatero/latero-examples)**: a set of example programs using the latero or latero-graphics libraries
-- **[latero-graphics](https://github.com/OpenLatero/latero-graphics)**: a library for tactile rendering
-- **[latero-demo](https://github.com/OpenLatero/latero-demo)**: a program that makes use of the latero-graphics library and showcases the Latero device's functionality
-- **[latero-graphics-studio](https://github.com/OpenLatero/latero-graphics-studio)**: a program that allows editing of 2D tactile graphics rendered using the latero-graphics library
-- **[latero-graphics-demo](https://github.com/OpenLatero/latero-graphics-demo)**: a program that makes use of the latero-graphics library and showcases the Latero device's functionality when mounted on a 2D slider (Tactograph)
+- **[latero](https://openlatero.org/latero)**: the low level driver for the Latero device
+- **[latero-gui](https://openlatero.org/latero-gui)**: a GUI that allows the individual testing of the actuators
+- **[latero-examples](https://openlatero.org/latero-examples)**: a set of example programs using the latero or latero-graphics libraries
+- **[latero-graphics](https://openlatero.org/latero-graphics)**: a library for tactile rendering
+- **[latero-demo](https://openlatero.org/latero-demo)**: a program that makes use of the latero-graphics library and showcases the Latero device's functionality
+- **[latero-graphics-studio](https://openlatero.org/latero-graphics-studio)**: a program that allows editing of 2D tactile graphics rendered using the latero-graphics library
+- **[latero-graphics-demo](https://openlatero.org/latero-graphics-demo)**: a program that makes use of the latero-graphics library and showcases the Latero device's functionality when mounted on a 2D slider (Tactograph)
 
 Most are released under the terms of the MIT License. The latero-examples are released in the public domain.
 
