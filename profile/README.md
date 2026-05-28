@@ -14,7 +14,13 @@ OpenLatero is a set of open source libraries and programs for the Latero tactile
 
 Most are released under the terms of the MIT License. The latero-examples are released in the public domain.
 
-# About the Latero Tactile Display
+## Supported Platforms
+
+OpenLatero is primarily developped and tested on MacOS but should also run on Linux and Windows. Please see instructions in each individual project.
+
+OpenLatero was tested in May 2026 on MacOS Tahoe 26.5 with MacPorts 2.12.5. It has not been recently tested on Windows or Linux.
+
+## About the Latero Tactile Display
 
 The Latero device is distributed by the not-for-profit organization [Tactile Labs Inc.](http://tactilelabs.com).
 It was previously named STReSS and was originally designed at the [McGill Haptics Laboratory](http://www.cim.mcgill.ca/~haptic/).
