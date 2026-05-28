@@ -18,7 +18,7 @@ Most are released under the terms of the MIT License. The latero-examples are re
 
 OpenLatero is primarily developped and tested on MacOS but should also run on Linux and Windows. Please see instructions in each individual project.
 
-OpenLatero was tested in May 2026 on MacOS Tahoe 26.5 with MacPorts 2.12.5. It has not been recently tested on Windows or Linux.
+OpenLatero was tested in May 2026 on MacOS Tahoe 26.5 with [MacPorts](https://www.macports.org) 2.12.5. It has not been recently tested on Windows or Linux.
 
 ## About the Latero Tactile Display
 
