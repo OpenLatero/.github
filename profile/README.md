@@ -1,12 +1,18 @@
-## Hi there 👋
+# Open Latero
 
-<!--
+The Latero device is distributed by the not-for-profit organization [Tactile Labs Inc.](http://tactilelabs.com).
+It was previously named STReSS and was originally designed at the [McGill Haptics Laboratory](http://www.cim.mcgill.ca/~haptic/).
+Videos of the device in action, as well as a list of related publications, can be found [here](http://www.cim.mcgill.ca/~haptic/laterotactile/dev/stress/).
+Please refer to Vincent Levesque's 2009 Ph.D. thesis ["Virtual Display of Tactile Graphics and Braille by Lateral Skin Deformation"](http://vlevesque.com/go/phd.html) for an in-depth report on the design, implementation and experimental evaluation of multiple tactile renderers developed specifically for the STReSS device.
 
-**Here are some ideas to get you started:**
+This software is part of a set of libraries and programs, all under the terms of the MIT License. A partial list of related libraries and programs:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- **latero**: the low level driver for the Latero device
+- **latero-gui**: a GUI that allows the individual testing of the actuators
+- **latero-graphics**: a library for tactile rendering
+- **latero-examples**: a set of example programs using the latero or latero-graphics libraries
+- **latero-demo**: a program that makes use of the latero-graphics library and showcases the Latero device's functionality
+- **latero-graphics-demo**: a program that makes use of the latero-graphics library and showcases the Latero device's functionality when mounted on a 2D slider (Tactograph)
+- **latero-graphics-studio**: a program that allows editing of 2D tactile graphics rendered using the latero-graphics library
+
+See [OpenLatero.org](http://OpenLatero.org) for more information.
