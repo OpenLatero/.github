@@ -7,9 +7,9 @@ Please refer to Vincent Levesque's 2009 Ph.D. thesis ["Virtual Display of Tactil
 
 # Open Latero
 
-Open Latero is a set of libraries and programs, all under the terms of the MIT License. A partial list of related libraries and programs:
+OpenLatero is a set of libraries and programs, all under the terms of the MIT License. A partial list of related libraries and programs:
 
-- **latero**: the low level driver for the Latero device
+- **[latero](http://www.github.com/OpenLatero/latero)**: the low level driver for the Latero device
 - **latero-gui**: a GUI that allows the individual testing of the actuators
 - **latero-graphics**: a library for tactile rendering
 - **latero-examples**: a set of example programs using the latero or latero-graphics libraries
