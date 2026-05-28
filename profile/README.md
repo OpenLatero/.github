@@ -11,8 +11,9 @@ OpenLatero is a set of libraries and programs, all under the terms of the MIT Li
 
 - **[latero](https://github.com/OpenLatero/latero)**: the low level driver for the Latero device
 - **[latero-gui](https://github.com/OpenLatero/latero-gui)**: a GUI that allows the individual testing of the actuators
+- **[latero-examples](https://github.com/OpenLatero/latero-examples)**: a set of example programs using the latero or latero-graphics libraries
+- **[latero-demo](https://github.com/OpenLatero/latero-demo)**: a program that makes use of the latero-graphics library and showcases the Latero device's functionality
 - **[latero-graphics](https://github.com/OpenLatero/latero-graphics)**: a library for tactile rendering
-- **latero-examples**: a set of example programs using the latero or latero-graphics libraries
-- **latero-demo**: a program that makes use of the latero-graphics library and showcases the Latero device's functionality
-- **latero-graphics-demo**: a program that makes use of the latero-graphics library and showcases the Latero device's functionality when mounted on a 2D slider (Tactograph)
-- **latero-graphics-studio**: a program that allows editing of 2D tactile graphics rendered using the latero-graphics library
+- **[latero-graphics-studio](https://github.com/OpenLatero/latero-graphics-studio)**: a program that allows editing of 2D tactile graphics rendered using the latero-graphics library
+- **[latero-graphics-demo](https://github.com/OpenLatero/latero-graphics-demo)**: a program that makes use of the latero-graphics library and showcases the Latero device's functionality when mounted on a 2D slider (Tactograph)
+
