@@ -26,3 +26,7 @@ The Latero device is distributed by the not-for-profit organization [Tactile Lab
 It was previously named STReSS and was originally designed at the [McGill Haptics Laboratory](http://www.cim.mcgill.ca/~haptic/).
 Videos of the device in action, as well as a list of related publications, can be found [here](http://www.cim.mcgill.ca/~haptic/laterotactile/dev/stress/).
 Please refer to Vincent Levesque's 2009 Ph.D. thesis ["Virtual Display of Tactile Graphics and Braille by Lateral Skin Deformation"](http://vlevesque.com/go/phd.html) for an in-depth report on the design, implementation and experimental evaluation of multiple tactile renderers developed specifically for the STReSS device.
+
+## Authors
+
+OpenLatero is maintained by [Vincent Levesque](https://vlevesque.com) and his Haptic User Experience research group at [École de technologie supérieure](https://etsmtl.ca). It was originally developped as part of his PhD thesis at [McGill University](https://mcgill.ca) and prepared for release as as open source project by Jerome Pasquero <jerome.pasquero@gmail.com>. See the git history for a full list of contributors.
