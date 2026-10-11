@@ -18,7 +18,7 @@ Most are released under the terms of the MIT License. The latero-examples are re
 
 OpenLatero is primarily developped and tested on MacOS but should also run on Linux and Windows. Please see instructions in each individual project.
 
-OpenLatero was tested in September 2026 on MacOS Golden Gate 27.0. It has not been recently tested on Windows or Linux.
+OpenLatero was tested in October 2026 on MacOS Golden Gate 27.0 and Linux Ubuntu 26.4. It has not been recently tested on Windows.
 
 ## About the Latero Tactile Display
 
