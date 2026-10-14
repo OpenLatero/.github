@@ -6,13 +6,20 @@ OpenLatero is a set of open source libraries and programs for the Latero tactile
 
 - **[latero](https://openlatero.org/latero)**: the low level driver for the Latero device
 - **[latero-gui](https://openlatero.org/latero-gui)**: a GUI that allows the individual testing of the actuators
-- **[latero-examples](https://openlatero.org/latero-examples)**: a set of example programs using the latero or latero-graphics libraries
 - **[latero-graphics](https://openlatero.org/latero-graphics)**: a library for tactile rendering
 - **[latero-demo](https://openlatero.org/latero-demo)**: a program that makes use of the latero-graphics library and showcases the Latero device's functionality
 - **[latero-graphics-studio](https://openlatero.org/latero-graphics-studio)**: a program that allows editing of 2D tactile graphics rendered using the latero-graphics library
 - **[latero-graphics-demo](https://openlatero.org/latero-graphics-demo)**: a program that makes use of the latero-graphics library and showcases the Latero device's functionality when mounted on a 2D slider (Tactograph)
 
-Most are released under the terms of the MIT License. The latero-examples are released in the public domain.
+Most are released under the terms of the MIT License. The example programs included with the latero and latero-graphics libraries are released in the public domain.
+
+## Getting Started
+
+1. Install the [latero](https://openlatero.org/latero) library, following the instructions in its README.
+2. Try the [latero examples](https://github.com/OpenLatero/latero/tree/master/examples), starting with [01-vibrate-loop](https://github.com/OpenLatero/latero/tree/master/examples/01-vibrate-loop), which makes the pins of the Latero vibrate.
+3. To render tactile graphics, install the [latero-graphics](https://openlatero.org/latero-graphics) library and try the [latero-graphics examples](https://github.com/OpenLatero/latero-graphics/tree/master/examples): [01-vibrate-engine](https://github.com/OpenLatero/latero-graphics/tree/master/examples/01-vibrate-engine) produces the same vibration using a tactile engine, and [02-vibrate-gui](https://github.com/OpenLatero/latero-graphics/tree/master/examples/02-vibrate-gui) adds a GUI.
+
+Each example is a small standalone project built against the installed libraries, and can be freely copied as a starting point for your own programs.
 
 ## Supported Platforms
 
