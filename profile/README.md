@@ -23,9 +23,9 @@ Each example is a small standalone project built against the installed libraries
 
 ## Supported Platforms
 
-OpenLatero is primarily developped and tested on MacOS but should also run on Linux and Windows. Please see instructions in each individual project.
+OpenLatero is primarily developped and tested on macOS but should also run on Linux and Windows. Please see instructions in each individual project.
 
-OpenLatero was tested in October 2026 on MacOS Golden Gate 27.0, Linux Ubuntu 26.4 and Windows 11.
+OpenLatero was tested in October 2026 on macOS 27.0, Linux Ubuntu 26.04 and Windows 11.
 
 ## About the Latero Tactile Display
 
