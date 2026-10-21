@@ -21,6 +21,10 @@ Most are released under the terms of the MIT License. The example programs inclu
 
 Each example is a small standalone project built against the installed libraries, and can be freely copied as a starting point for your own programs.
 
+## Releases
+
+The `master` branch of each project is under active development and may include breaking changes. For a stable version, use the latest release of each project (see its Releases page on GitHub). All projects share the same version number, and releases with the same version are meant to be used together. Release v0.0.0 of each project preserves the code as it was before development resumed in 2026.
+
 ## Supported Platforms
 
 OpenLatero is primarily developped and tested on macOS but should also run on Linux and Windows. Please see instructions in each individual project.
